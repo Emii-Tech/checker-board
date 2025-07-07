@@ -4,7 +4,7 @@ A beautiful and responsive checkerboard pattern crafted purely with HTML and CSS
 # Checkerboard Pattern with HTML & CSS Grid
 
 ## Overview
-This project is a **classic checkerboard pattern** created purely with **HTML and CSS**, utilizing the power of **CSS Grid** for layout. It demonstrates how to build an 8x8 grid with alternating colored squares without any JavaScript.
+This project is a **classic checkerboard pattern** created purely with **HTML and CSS**, utilizing the power of **CSS Grid** for layout. It demonstrates how to build an 50x57 grid with alternating colored squares without any JavaScript.
 
 ## Features
 - Responsive 50x57 checkerboard layout
