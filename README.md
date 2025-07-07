@@ -68,7 +68,6 @@ h1{
 ## Learnings
 This project helped me explore:
 - CSS Grid layout fundamentals
-- Using `nth-child` selectors for alternating styles
 - Creating patterns purely with CSS without JavaScript
 
 ## License
